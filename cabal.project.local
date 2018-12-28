@@ -1,0 +1,3 @@
+constraints: micro-recursion-schemes -template-haskell
+-- tests: true
+documentation: true
